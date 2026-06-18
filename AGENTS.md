@@ -2,12 +2,16 @@
 
 ### Issue tracker
 
-Issues and PRDs are tracked in GitHub Issues using the `gh` CLI. See `docs/agents/issue-tracker.md`.
+Issue 和 PRD 通过 GitHub Issues 维护，并使用 `gh` CLI 操作。见 `docs/agents/issue-tracker.md`。
 
-### Triage labels
+### Triage 标签
 
-This repo uses the default five-label triage vocabulary. See `docs/agents/triage-labels.md`.
+本仓库使用默认的五类 triage 标签词汇。见 `docs/agents/triage-labels.md`。
 
-### Domain docs
+### 领域文档
 
-This repo uses a single-context domain docs layout. See `docs/agents/domain.md`.
+本仓库使用 single-context 的领域文档布局。见 `docs/agents/domain.md`。
+
+### 文档语言
+
+项目文档默认使用中文维护。见 `docs/agents/domain.md`。
